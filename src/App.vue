@@ -25,7 +25,7 @@
           <div v-show="show" class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-amber-700 font-bold animate-item" style="--delay: 1s;">Beijing / 北京</div>
         </transition>
         <transition appear name="slide-fade">
-          <div v-show="show" class="text-xl sm:text-2xl md:text-2xl lg:text-3xl text-amber-700 font-bold mt-2 animate-item" style="--delay: 1.5s;">2024.10.2</div>
+          <div v-show="show" class="text-xl sm:text-2xl md:text-2xl lg:text-3xl text-amber-700 font-bold mt-2 animate-item" style="--delay: 1.5s;">2024.11.2</div>
         </transition>
       </div>
       <div class="flex items-center justify-center">
